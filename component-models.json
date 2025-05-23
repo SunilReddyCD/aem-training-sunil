@@ -262,6 +262,7 @@
         "label": "CTA label",
         "valueType": "string"
       }
+    ]
  },
   {
     "id": "hero",
